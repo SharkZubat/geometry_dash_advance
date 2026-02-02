@@ -103,8 +103,8 @@ ROM_DATA u16 sound_test_song_ids[] = {
     MOD_PYRO,
     MOD_ROSE,
     MOD_PROBLEM,
-    MOD_FINALBATTLE,
     MOD_DEATHMOON,
+    MOD_FINALBATTLE,
     MOD_EVERYEND
 };
 void put_song_info(u32 song_id);
