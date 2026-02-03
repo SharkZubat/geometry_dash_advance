@@ -11,7 +11,7 @@ const unsigned int squareadv_properties[] = {
  /*gamemode*/      0,
  /*speed*/         1,
  /*level height*/  37,
- /*level width*/   885,
+ /*level width*/   890,
  /*song*/          MOD_STEREOMA,
  /*name length*/   9,
  /*difficulty*/    2,
