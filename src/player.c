@@ -54,7 +54,7 @@ void player_main() {
     
     shift_trail();
 
-    if (complete_cutscene) {
+    if (complete_cutscene && game_state == STATE_PLAYING) {
         level_complete_cutscene();
     } else {
         // Set internal square hitbox size, for wave this is always 1
