@@ -11,7 +11,7 @@ const unsigned int invisontrack_properties[] = {
  /*gamemode*/      0,
  /*speed*/         1,
  /*level height*/  27,
- /*level width*/   850,
+ /*level width*/   845,
  /*song*/          MOD_BACKOT,
  /*name length*/   12,
  /*difficulty*/    0,
