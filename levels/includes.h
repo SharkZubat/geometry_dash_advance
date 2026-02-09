@@ -227,8 +227,16 @@
 #include "selectpaymenttype/SP.h"
 #include "selectpaymenttype/properties.h"
 
+// storymadness
+#define storymadness_ID 24
+
+#include "storymadness/l1.h"
+#include "storymadness/l2.h"
+#include "storymadness/SP.h"
+#include "storymadness/properties.h"
+
 // groundtospace
-#define groundtospace_ID 24
+#define groundtospace_ID 25
 
 #include "groundtospace/l1.h"
 #include "groundtospace/l2.h"
@@ -236,7 +244,7 @@
 #include "groundtospace/properties.h"
 
 // one
-#define one_ID 25
+#define one_ID 26
 
 #include "one/l1.h"
 #include "one/l2.h"
@@ -244,7 +252,7 @@
 #include "one/properties.h"
 
 // ultimatedestruction
-#define ultimatedestruction_ID 26
+#define ultimatedestruction_ID 27
 
 #include "ultimatedestruction/l1.h"
 #include "ultimatedestruction/l2.h"
@@ -252,7 +260,7 @@
 #include "ultimatedestruction/properties.h"
 
 // pyrophoric
-#define pyrophoric_ID 27
+#define pyrophoric_ID 28
 
 #include "pyrophoric/l1.h"
 #include "pyrophoric/l2.h"
@@ -260,7 +268,7 @@
 #include "pyrophoric/properties.h"
 
 // funnygameholiday
-#define funnygameholiday_ID 28
+#define funnygameholiday_ID 29
 
 #include "funnygameholiday/l1.h"
 #include "funnygameholiday/l2.h"
@@ -268,7 +276,7 @@
 #include "funnygameholiday/properties.h"
 
 // thenightmare
-#define thenightmare_ID 29
+#define thenightmare_ID 30
 
 #include "thenightmare/l1.h"
 #include "thenightmare/l2.h"
@@ -276,7 +284,7 @@
 #include "thenightmare/properties.h"
 
 // rose
-#define rose_ID 30
+#define rose_ID 31
 
 #include "rose/l1.h"
 #include "rose/l2.h"
@@ -284,7 +292,7 @@
 #include "rose/properties.h"
 
 // problematic
-#define problematic_ID 31
+#define problematic_ID 32
 
 #include "problematic/l1.h"
 #include "problematic/l2.h"
@@ -292,7 +300,7 @@
 #include "problematic/properties.h"
 
 // deathmoon
-#define deathmoon_ID 32
+#define deathmoon_ID 33
 
 #include "deathmoon/l1.h"
 #include "deathmoon/l2.h"
@@ -300,7 +308,7 @@
 #include "deathmoon/properties.h"
 
 // acropolis
-#define acropolis_ID 33
+#define acropolis_ID 34
 
 #include "acropolis/l1.h"
 #include "acropolis/l2.h"
@@ -308,7 +316,7 @@
 #include "acropolis/properties.h"
 
 // everyend
-#define everyend_ID 34
+#define everyend_ID 35
 
 #include "everyend/l1.h"
 #include "everyend/l2.h"
@@ -316,7 +324,7 @@
 #include "everyend/properties.h"
 
 // test
-#define test_ID 35
+#define test_ID 36
 
 #include "test/l1.h"
 #include "test/l2.h"
@@ -324,7 +332,7 @@
 #include "test/properties.h"
 
 // test2
-#define test2_ID 36
+#define test2_ID 37
 
 #include "test2/l1.h"
 #include "test2/l2.h"
@@ -332,13 +340,13 @@
 #include "test2/properties.h"
 
 // endless
-#define endless_ID 37
+#define endless_ID 38
 
 #include "endless/l1.h"
 #include "endless/l2.h"
 #include "endless/SP.h"
 #include "endless/properties.h"
 
-#define LEVEL_COUNT 38
+#define LEVEL_COUNT 39
 extern ROM_DATA const u16 *level_defines[][4];
 extern ROM_DATA const u8 *level_names[];
