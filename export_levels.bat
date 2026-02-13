@@ -1,4 +1,45 @@
-:: To add a level, add the name of the .json file (without the extension) to the list of levels
+:: To add a level, add the name of the .json file (without the extension) to the list of levels, make sure there is not an space after the ^. The ^ acts as a separator.
 @echo off
-py export_levels.py stereomadness backontrack polargeist dryout baseafterbase cantletgo jumper timemachine cycles xstep clutterfunk theoryofeverything electromanadventures clubstep electrodynamix hexagonforce retray invisontrack leveleasy dorabaebasic4 dorabaebasic7 goldenclub squareadv selectpaymenttype storymadness groundtospace one ultimatedestruction pyrophoric cantletgov2 funnygameholiday thenightmare rose problematic deathmoon acropolis everyend test test2 endless
+py export_levels.py^
+ stereomadness^
+ backontrack^
+ polargeist^
+ dryout^
+ baseafterbase^
+ cantletgo^
+ jumper^
+ timemachine^
+ cycles^
+ xstep^
+ clutterfunk^
+ theoryofeverything^
+ electromanadventures^
+ clubstep^
+ electrodynamix^
+ hexagonforce^
+ retray^
+ invisontrack^
+ leveleasy^
+ dorabaebasic4^
+ dorabaebasic7^
+ goldenclub^
+ squareadv^
+ selectpaymenttype^
+ storymadness^
+ groundtospace^
+ one^
+ dynamicontrack^
+ ultimatedestruction^
+ pyrophoric^
+ cantletgov2^
+ funnygameholiday^
+ thenightmare^
+ rose^
+ problematic^
+ deathmoon^
+ acropolis^
+ everyend^
+ test^
+ test2^
+ endless
 pause
