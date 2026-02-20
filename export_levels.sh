@@ -37,6 +37,8 @@ levels=(
   rose
   problematic
   deathmoon
+  demonjumper
+  nine
   acropolis
   everyend
   test
